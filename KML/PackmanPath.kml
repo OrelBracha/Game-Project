@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20060553650794,32.10228352461539,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.199811114285716,32.10222832153846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.199811114285716,32.10235844307692,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20094600317461,32.10216523230769,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20175663809524,32.102007509230766,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.2025996984127,32.10188527384615,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20373458730159,32.101794583076924,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.204739774603176,32.10173543692308,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19906533015873,32.10214551692307,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19802771746032,32.10197202153846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19742784761905,32.10188527384615,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19629295873016,32.10173543692308,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19854652380953,32.10205088307693,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19930852063492,32.10248856461538,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19911396825397,32.102740921538455,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19919503174604,32.10287498615384,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19947064761906,32.10306031076922,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.200281282539684,32.10319437538462,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20191876507936,32.10308002615385,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.2031022920635,32.102938075384614,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.204804625396825,32.10278035230769,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20593951428572,32.10244124769231,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20605300317461,32.102153403076926,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.205858450793656,32.10199568,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20060553650794,32.10228352461539,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.199811114285716,32.10222832153846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.199811114285716,32.10235844307692,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20094600317461,32.10216523230769,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20175663809524,32.102007509230766,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.2025996984127,32.10188527384615,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20373458730159,32.101794583076924,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.204739774603176,32.10173543692308,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19906533015873,32.10214551692307,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19802771746032,32.10197202153846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19742784761905,32.10188527384615,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19629295873016,32.10173543692308,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19854652380953,32.10205088307693,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19930852063492,32.10248856461538,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19911396825397,32.102740921538455,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19919503174604,32.10287498615384,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19947064761906,32.10306031076922,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.200281282539684,32.10319437538462,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20191876507936,32.10308002615385,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.2031022920635,32.102938075384614,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.204804625396825,32.10278035230769,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20593951428572,32.10244124769231,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20605300317461,32.102153403076926,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.205858450793656,32.10199568,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20060553650794,32.10228352461539,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.199811114285716,32.10222832153846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.199811114285716,32.10235844307692,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20094600317461,32.10216523230769,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20175663809524,32.102007509230766,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.2025996984127,32.10188527384615,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20373458730159,32.101794583076924,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.204739774603176,32.10173543692308,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19906533015873,32.10214551692307,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19802771746032,32.10197202153846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19742784761905,32.10188527384615,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19629295873016,32.10173543692308,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19854652380953,32.10205088307693,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19930852063492,32.10248856461538,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19911396825397,32.102740921538455,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19919503174604,32.10287498615384,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.19947064761906,32.10306031076922,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.200281282539684,32.10319437538462,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20191876507936,32.10308002615385,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.2031022920635,32.102938075384614,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.204804625396825,32.10278035230769,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20593951428572,32.10244124769231,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.20605300317461,32.102153403076926,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pacman</name>
+<TimeStamp>
+<when>2018-12-23T19:58:41Z</when>
+</TimeStamp><description>
+</description>
+<Point>
+<coordinates> 35.205858450793656,32.10199568,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>
+Selected Path
+</name>
+<description>
+Path
+</description>
+<LineString>
+<coordinates>
+X = 32.10228352461539, Y = 35.20060553650794, Z = 0.0
+X = 32.10222832153846, Y = 35.199811114285716, Z = 0.0
+X = 32.10235844307692, Y = 35.199811114285716, Z = 0.0
+X = 32.10216523230769, Y = 35.20094600317461, Z = 0.0
+X = 32.102007509230766, Y = 35.20175663809524, Z = 0.0
+X = 32.10188527384615, Y = 35.2025996984127, Z = 0.0
+X = 32.101794583076924, Y = 35.20373458730159, Z = 0.0
+X = 32.10173543692308, Y = 35.204739774603176, Z = 0.0
+X = 32.10214551692307, Y = 35.19906533015873, Z = 0.0
+X = 32.10197202153846, Y = 35.19802771746032, Z = 0.0
+X = 32.10188527384615, Y = 35.19742784761905, Z = 0.0
+X = 32.10173543692308, Y = 35.19629295873016, Z = 0.0
+X = 32.10205088307693, Y = 35.19854652380953, Z = 0.0
+X = 32.10248856461538, Y = 35.19930852063492, Z = 0.0
+X = 32.102740921538455, Y = 35.19911396825397, Z = 0.0
+X = 32.10287498615384, Y = 35.19919503174604, Z = 0.0
+X = 32.10306031076922, Y = 35.19947064761906, Z = 0.0
+X = 32.10319437538462, Y = 35.200281282539684, Z = 0.0
+X = 32.10308002615385, Y = 35.20191876507936, Z = 0.0
+X = 32.102938075384614, Y = 35.2031022920635, Z = 0.0
+X = 32.10278035230769, Y = 35.204804625396825, Z = 0.0
+X = 32.10244124769231, Y = 35.20593951428572, Z = 0.0
+X = 32.102153403076926, Y = 35.20605300317461, Z = 0.0
+X = 32.10199568, Y = 35.205858450793656, Z = 0.0
+</coordinates>
+</LineString>
+</Placemark>
+
+</Folder>
+</Document></kml>
